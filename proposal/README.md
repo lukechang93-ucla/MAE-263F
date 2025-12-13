@@ -1,6 +1,8 @@
 MAE-263F
 Mechanics of Flexible Structures & Soft Robots
 
-Homework2.ipnyb - Source code, run all.
+final.pdf - Final Report
+midterm.pdf - Midterm Report
+proposal.pdf - Proposal Report
 
-Homework2_CHANG.pdf - Report Submission
+presentation.pdf - Presentation Slidedecks
